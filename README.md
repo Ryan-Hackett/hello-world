@@ -1,4 +1,5 @@
 # hello-world
 Tutorial
-###Playing with GitHub
+
+### Playing with GitHub
 **Fun Stuff About ME**
